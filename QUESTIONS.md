@@ -1,4 +1,3 @@
-# Mar 24, 2023 at 8:29 AM
 # CS 142: Program design and methodology 
 ## Design Problems
 The following are the design problems students wrote in 2015. For each of them, identify the ADT(s) and/or implementations needed to solve these computational problems. 
