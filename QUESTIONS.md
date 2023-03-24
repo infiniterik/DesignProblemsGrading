@@ -17,22 +17,10 @@ The following are the design problems students wrote in 2015. For each of them, 
 
 7. A retail store manager wants to efficiently let customers check out in the quickest way possible during busier times. Their solution is a system on which customers ready to check out enter their name and the number of items they have. They are then directed to an appropriate line (line 1 for 1–10 items, line 2 for 11–20 items, etc). The system should keep track of the people in each of the lines so that it can provide each cashier with the name of the first person in their line, allowing each customer to be greeted by name. 
 
-8. Two students, each in different sections of the same course, were fighting over which one has the more challenging professor. Knowing that you have learned a great deal about cataloging information in your computer science courses, they come to you and ask you to help settle the debate. They request that you make a program that will take assignment descriptions, each paired with the perceived difficulty of the assignment on a scale of 0–10. The program should then display the lists for each student in a two-column format organized by difficulty as follows: 
-* 10 HW 6 Midterm 1 
-* Final 
-* 9 Midterm Final 
-* HW 2 Midterm 2 
-* HW 3 Quiz 1 
-* HW 1 
-* HW 6 
-* ...
+8. You want to create a personal record keeping system for first-person shooter games. Specifically, for each game it should record your KDA (kills, deaths, and assists) values; the number of times you’ve killed a character in the game, the number of times you’ve died, and the number of assists that you’ve made. You want to be able to look up this information for each game and also to update it as your stats change. 
 
-Each course’s assignments are listed in one of the columns. All the assignments at a given difficulty level are presented before any at a lower difficulty.
-
-9. You want to create a personal record keeping system for first-person shooter games. Specifically, for each game it should record your KDA (kills, deaths, and assists) values; the number of times you’ve killed a character in the game, the number of times you’ve died, and the number of assists that you’ve made. You want to be able to look up this information for each game and also to update it as your stats change. 
-
-10. It’s the year 3015 and the Earth is being evacuated due to ”environmental collapse”. You work for the government which is in the process of deciding who is worthy to be saved. You must keep track the people applying for transit visas. The process consists of two parts: 
+9. It’s the year 3015 and the Earth is being evacuated due to ”environmental collapse”. You work for the government which is in the process of deciding who is worthy to be saved. You must keep track the people applying for transit visas. The process consists of two parts: 
 (a) An initial filter in which people who applied earlier are given preference. Therefore it is very important to know the order in which applications are received. Once an application is reviewed, the person’s name will need to be removed. 
 (b) An alphabetical file of those chosen for evacuation and their current home address. A worker must be able to search for a person based on their first name and find their home address. This is so that notifications can be sent out. 
 
-11. Knox College wants to create a system which will allow faculty, staff, and students to reserve study spaces, classrooms, gym spaces, meeting rooms, etc. This system needs to be easy to use so that information can be found by using building names and room numbers. There already exists an interactive map of the campus so you are assigned the task of creating the ”inner workings”. Specifically, the system must be able to accept requests specified by room number. These requests are processed each morning, in an order determined by the submitter’s rank (president, dean, manager, professor, student, etc) and the time they were submitted (first-come first-served among submitters with the same rank).
+10. Knox College wants to create a system which will allow faculty, staff, and students to reserve study spaces, classrooms, gym spaces, meeting rooms, etc. This system needs to be easy to use so that information can be found by using building names and room numbers. There already exists an interactive map of the campus so you are assigned the task of creating the ”inner workings”. Specifically, the system must be able to accept requests specified by room number. These requests are processed each morning, in an order determined by the submitter’s rank (president, dean, manager, professor, student, etc) and the time they were submitted (first-come first-served among submitters with the same rank).
