@@ -40,6 +40,8 @@ We will do Question 1 in class together. You may use any 3 of the remaining ques
 
 Questions about the lab should be asked in Slack in a public channel to ensure that everyone gets the answer. If there is a particularly important change to the assignment, I will post the update in slack/google classroom and pin it. See google classroom for due date. The due date listed on github classroom is the last chance to submit late.
 
+You may **google** individual data structures and their time/space complexity, but you may not google any part of the question itself. No generative AI, including Bing.
+
 For this assignment, the Codespace environment will **automatically** commit and push for you every 30 seconds, so you don't have to worry about that right now. In the future assignments, I will disable that feature so you can be in control of your commits and commit messages. You will be able to roll-back changes to individual files, but much of git's functionality may be limited for this assignment.
 
 I referenced [this link](https://github.blog/2013-01-31-relative-links-in-markup-files/) to remind myself how to embed links in markdown.
